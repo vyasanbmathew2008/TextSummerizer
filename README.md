@@ -1,4 +1,4 @@
-# 📝 Text Summerizer
+# 📝 Text Summarizer
 
 > **AI-powered text summarization built with Python, Streamlit, and Google Gemini.**
 
